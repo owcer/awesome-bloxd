@@ -4,6 +4,7 @@ a (wip) handcrafted list of almost all tools, resources and links for [bloxd.io]
 # Bloxd coding utilities
 ## Libraries/APIs
 ## Formatters and Editors
+sulfrox.github.io/BoardFormatter/ - a js code formatter maintained by sulfrox, originally to format code for press-to-code boards, but also supports bypassing the swear-filter using unicode escape codes
 ## Converters
 ### Image converters
 ### Music converters
@@ -11,6 +12,7 @@ a (wip) handcrafted list of almost all tools, resources and links for [bloxd.io]
 # Tutorials
 
 # Media and asset-sharing websites
+https://bloxdhub.com - a website maintained by Crownix aiming to provide a social media and chat platform for users
 
 # Projects
 ## Operating Systems
@@ -21,5 +23,9 @@ a (wip) handcrafted list of almost all tools, resources and links for [bloxd.io]
 # Mechanics
 
 # Docs
+https://github.com/Bloxdy/code-api - the official bloxd documentation
+https://github.com/Sheriff-Unit-3/Bloxd.io-API-Code - an unoffical community-maintained fork aiming to provide more extensive documentation
+https://bloxdfc.pages.dev - a website maintained by FrostyCaveman which aims to provide a list of blocks and item names
+https://bloxd-io.fandom.com/wiki/Bloxd.io_Wiki - a wiki for bloxd with pages containing details about various areas in bloxd
 
 # Miscellaneous
