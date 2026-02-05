@@ -3,8 +3,10 @@ a (wip) handcrafted list of almost all tools, resources and links for [bloxd.io]
 
 # Bloxd coding utilities
 ## Libraries/APIs
+https://github.com/Tridentify/AutoExe - a library maintained by Tridentify that adds helper functions to load code blocks
+
 ## Formatters and Editors
-sulfrox.github.io/BoardFormatter/ - a js code formatter maintained by sulfrox, originally to format code for press-to-code boards, but also supports bypassing the swear-filter using unicode escape codes
+https://sulfrox.github.io/BoardFormatter/ - a js code formatter maintained by sulfrox, originally to format code for press-to-code boards, but also supports bypassing the swear-filter using unicode escape codes
 ## Converters
 ### Image converters
 ### Music converters
