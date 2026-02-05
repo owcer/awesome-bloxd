@@ -24,8 +24,11 @@ https://bloxdhub.com - a website maintained by Crownix aiming to provide a socia
 
 # Docs
 https://github.com/Bloxdy/code-api - the official bloxd documentation
+
 https://github.com/Sheriff-Unit-3/Bloxd.io-API-Code - an unoffical community-maintained fork aiming to provide more extensive documentation
+
 https://bloxdfc.pages.dev - a website maintained by FrostyCaveman which aims to provide a list of blocks and item names
+
 https://bloxd-io.fandom.com/wiki/Bloxd.io_Wiki - a wiki for bloxd with pages containing details about various areas in bloxd
 
 # Miscellaneous
